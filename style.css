@@ -6,8 +6,7 @@
 
 body {
   background-color: #20A4F3;
-  /* display: flex; */
-  /* justify-content: center; */
+  touch-action: manipulation;
 }
 
 #score-board {
